@@ -19,5 +19,6 @@ This README is WIP.
   * There are plenty of introductory courses to the Julia programming language around. A few recommendations, follow the one(s) that you prefer:
     * [Julia academy](https://juliaacademy.com/p/intro-to-julia)
     * [Julia2925](https://github.com/Beramos/DS-Julia2925)
+    * Maybe you can find more recent Julia tutorials [here](https://pnavaro.github.io/NouvellesJulia/).
   * Take a look at the sections of [the Julia manual](https://docs.julialang.org/en/v1/) that cover the fundamentals of the language (Getting Started, Variables, Integers..., Mathematical Operations..., Strings, Functions, Scope of Variables, Types and Methods).
   * Join the Julia [mailing list](https://listes.services.cnrs.fr/wws/subscribe/julia) from CNRS.
